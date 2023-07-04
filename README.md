@@ -1,4 +1,7 @@
-### Hi there 👋
+### 主页 👋
+本人技术栈：
+Vue2.0，Vue3.0
+Uniapp
 目前正在找工作中，欢迎内推
 邮箱：yzezcxd@126.com
 <!--
