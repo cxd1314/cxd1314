@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+目前正在找工作中，欢迎内推
+邮箱：yzezcxd@126.com
 <!--
 **cxd1314/cxd1314** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
